@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\nul01\Desktop\WearableDuri\app\libs\netty-all-4.1.4.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53e872099eb8d81b47621c67abbb662ba057b96b">
+        <dex dex="C:\Users\nul01\Desktop\WearableDuri\app\build\intermediates\pre-dexed\debug\netty-all-4.1.4.Final_a34721ce7988673a26d9f5cb1f259053a01b0093.jar" />
+    </item>
+
+</items>

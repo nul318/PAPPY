@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\nul01\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.7\69d90fd7fb70e54746e26c10454c220e40a775ce\otto-1.3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69d90fd7fb70e54746e26c10454c220e40a775ce">
+        <dex dex="C:\Users\nul01\Desktop\Duri\app\build\intermediates\pre-dexed\debug\otto-1.3.7_abca8f6cabd23a28a5b811504e7c2baefab699bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nul01\Desktop\Duri\app\libs\netty-all-4.1.4.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53e872099eb8d81b47621c67abbb662ba057b96b">
+        <dex dex="C:\Users\nul01\Desktop\Duri\app\build\intermediates\pre-dexed\debug\netty-all-4.1.4.Final_27d1c950ab6c12e68873fdd4ee74e2396e6feef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nul01\.android\build-cache\ea3d17de5039e9493868dacbb147cacc3dc3aabd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e0891a69f24747a6988698a57fd55825b31251fa">
+        <dex dex="C:\Users\nul01\Desktop\Duri\app\build\intermediates\pre-dexed\debug\classes_9e3249447b2372a68e56500a3be9c71a0c40bd4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nul01\.android\build-cache\cd8f2c29350a142d67f3c42c4e1a01994508d3b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f200454bd6851899efe021d2a4673959986edaed">
+        <dex dex="C:\Users\nul01\Desktop\Duri\app\build\intermediates\pre-dexed\debug\classes_b1310d452062d1626d9016e9f1f0a62bdf9d4849.jar" />
+    </item>
+
+</items>
